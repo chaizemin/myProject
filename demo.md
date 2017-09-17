@@ -1,5 +1,9 @@
-''''javascript
-    var a = 10;
-    var b = c;
-    var
-''''
+```javascript
+var a = 10;
+console.log(a);
+```
+
+```javascript
+
+
+```
